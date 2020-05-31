@@ -1,0 +1,2 @@
+rootProject.name='Android Download Example'
+include ':app'
